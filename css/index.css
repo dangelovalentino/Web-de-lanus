@@ -1,0 +1,45 @@
+body{
+    background-image: url(../imagenes/lanus\ fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header img{
+    width: 160px;
+    height: 160px;
+    transition: all 0.3s;
+}
+
+header img:hover{
+    transform:scale(1.2);
+}
+
+header a:hover{
+    color: rgb(240, 5, 5);
+}
+
+
+header{
+    display: flex;
+    background-color: aliceblue;
+    justify-content: space-between;
+    align-items: center;
+    font-size: xx-large;
+    opacity: 80%;
+    
+}
+.logos img{
+    width: 60px;
+    height: 60px;
+}
+
+a{
+    text-decoration: none;
+}
+
+.equipo{
+    width: auto;
+    height: 850px;
+    display: block;
+    margin: auto;
+}

@@ -1,0 +1,26 @@
+body{
+    background-image: url(../imagenes/lanus\ fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+header{
+    background-color: aliceblue;
+    opacity: 90%;
+    justify-content: center;
+    height: 130px;
+    width: auto;
+}
+
+header h1{
+    text-align: center;
+    font-size:60px;
+    font-style: italic;
+}
+
+body img{
+    width: auto;
+    height: 850px;
+    display: block;
+    margin: auto;
+}
